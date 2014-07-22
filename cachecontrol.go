@@ -2,7 +2,7 @@
 // Copyright Fabien Potencier
 // Parts of this code comes from the "Symfony HttpFoundation" source code.
 // Use of this source code is governed by a MIT license.
-//
+
 // Package cachecontrol provides HTTP Cache-Control header parsing with some
 // utility functions to quickly deal with directives values.
 package cachecontrol
